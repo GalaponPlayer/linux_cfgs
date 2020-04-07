@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"AlignTab",
+		"All Autocomplete",
+		"AutoPEP8",
+		"BracketHighlighter",
+		"Codecs33",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"EasyClangComplete",
+		"FindKeyConflicts",
+		"Git",
+		"GitGutter",
+		"LaTeXTools",
+		"Material Theme",
+		"Package Control",
+		"Python Flake8 Lint",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"SublimeLinter",
+		"SublimeLinter-gcc",
+		"Terminal",
+		"Terminus",
+		"Theme - Solarized Flat",
+		"TrailingSpaces",
+		"Vintageous"
+	]
+}
